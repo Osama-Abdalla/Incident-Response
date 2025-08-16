@@ -37,9 +37,12 @@ The project follows the industry-standard **NIST Incident Response lifecycle**:
   
    ## 📂 Incident Response Cases
 
-| Case Name | Description | Link |
-|-----------|-------------|------|
-| **Phishing Attack** | Analysis of malicious email with payload delivery | [View Case](cases/phishing-attack.md) |
-| **Brute Force Attack** | Detection of repeated login attempts in logs | [View Case](cases/brute-force.md) |
-| **Malware Infection** | Investigating suspicious process & containment steps | [View Case](cases/malware-infection.md) |
-| **Privilege Escalation** | Detection & analysis of privilege misuse on Linux host | [View Case](cases/privilege-escalation.md) |
+## 📂 Incident Response Cases
+
+| Case Name | Link |
+|-----------|------|
+| **WebStrike** | [View Case](cases/phishing-attack.md) |
+| **Brute Force Attack** | [View Case](cases/brute-force.md) |
+| **Malware Infection** | [View Case](cases/malware-infection.md) |
+| **Privilege Escalation** | [View Case](cases/privilege-escalation.md) |
+
