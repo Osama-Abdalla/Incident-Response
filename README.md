@@ -41,7 +41,7 @@ The project follows the industry-standard **NIST Incident Response lifecycle**:
 
 | Case Name | Link |
 |-----------|------|
-| **WebStrike** | [View Case](cases/phishing-attack.md) |
+| **WebStrike** | [View Case](https://github.com/Osama-Abdalla/Incident-Response/tree/main/Case1-WebStrike) |
 | **Brute Force Attack** | [View Case](cases/brute-force.md) |
 | **Malware Infection** | [View Case](cases/malware-infection.md) |
 | **Privilege Escalation** | [View Case](cases/privilege-escalation.md) |
