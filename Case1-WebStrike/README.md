@@ -4,6 +4,9 @@
 A suspicious file was identified on a company web server, raising alarms within the intranet. The Development team flagged the anomaly, suspecting potential malicious activity. To address the issue, the network team captured critical network traffic and prepared a PCAP file for review.
 Your task is to analyze the provided PCAP file to uncover how the file appeared and determine the extent of any unauthorized activity.
 
+## Tools:
+- Wireshark.
+
 ## Walkthrough
 ## 1. Analyze PCAP Traffic
 The investigation begins by loading the provided PCAP file into Wireshark. Using the Statistics → IPv4 Statistics → Conversations feature, we can quickly identify which IP addresses generated the most traffic. Among the captured connections, one IP address stands out as highly active and performing suspicious behavior. This IP is flagged as the attacker’s IP address, which will serve as the pivot point for further analysis.
